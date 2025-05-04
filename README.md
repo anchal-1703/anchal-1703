@@ -1,56 +1,84 @@
-<h1 align="center">Hi 👋, I'm Anchal</h1>
-<h3 align="center">Aspiring Software Development Engineer (SDE) | CSE Student at I. K. Gujral Punjab Technical University, Kapurthala</h3>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 I’m a 3rd-year B.Tech CSE student passionate about building scalable web applications and solving real-world problems with code.
-- 🔭 Currently working on improving my backend skills with **Node.js + Express**.
-- 🌱 Actively learning **DSA**, **System Design**, and **Cloud Deployment**.
-- 👯 I'm looking to collaborate on open-source, web dev, and AI/ML projects.
-- 💬 Ask me about **Full Stack Web Development**, **Python**, or **AI/ML basics**.
-- 📫 How to reach me: anchalsandhu8085@gmail.com
-- ⚡ Fun fact: I believe learning never stops, and coffee + code = ❤️
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-`C++` `Python` `C` `PHP` `JavaScript` `HTML` `CSS`
-
-**Frameworks & Libraries:**  
-`React` `Node.js` `Express.js` `Django` `Laravel`
-
-**Databases & Tools:**  
-`MySQL` `MongoDB` `PostgreSQL`  
-`Git` `GitHub` `VS Code`
-
----
-
-### 📈 GitHub Stats
+<!-- GitHub Profile README - Anchal -->
+<h1 align="center">✨ Hey there, I'm Anchal! 👩‍💻</h1>
+<h3 align="center">CSE @ I.K. Gujral Punjab Technical University | Aspiring SDE | Tech Lover 💜</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anchal-1703&show_icons=true&theme=radical" alt="Anchal's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anchal-1703&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchal-1703&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F57DE3&center=true&vCenter=true&lines=Passionate+Coder+%F0%9F%92%BB;Full+Stack+Learner+%F0%9F%93%96;DSA+Explorer+%F0%9F%92%A1;Future+SDE+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
+### 🌸 About Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/anchal1703)](https://linkedin.com/in/anchal1703)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anchalsandhu8085@gmail.com)
+- 🎓 3rd-year B.Tech CSE student from **I.K. Gujral Punjab Technical University**
+- 💻 I love building full-stack projects and exploring AI/ML
+- 🌱 Currently learning: **Node.js**, **Express.js**, and **Advanced DSA**
+- 💬 Ask me about **Web Dev**, **AI basics**, or **Open Source**
+- 📫 Reach me at: [anchalsandhu8085@gmail.com](mailto:anchalsandhu8085@gmail.com)
+- ✨ Fun fact: I'm powered by chai ☕ and curiosity 💭
 
 ---
 
-### 🚀 Upcoming Goals
+### 🛠️ My Tech Toolbox
 
-- ✅ Master Full stack and build real-world full stack projects  
-- ✅ Practice 300+ DSA problems on LeetCode  
-- ✅ Contribute to open-source  
-- ✅ Deploy personal portfolio website  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,php,html,css,js,nodejs,react,django,laravel,git,github,mysql,mongodb" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=anchal-1703&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=anchal-1703&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchal-1703&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💖 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/anchal1703" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anchal1703-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:anchalsandhu8085@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-Contact%20Me-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💡 Goals for 2025
+
+- 🚀 Build & deploy a full-stack MERN project  
+- 🤖 Create a working ML model in a Django app  
+- 🔍 Solve 300+ DSA problems  
+- 🌐 Launch my personal portfolio  
+- 📢 Contribute to Open Source
+
+---
+
+### 💫 Quote that inspires me
+
+> “She believed she could, so she did.” – R.S. Grey 🌷
+
+---
+
+### 🦄 Fun Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="300px" />
+</p>
+
+---
+
+<!-- Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+</p>
