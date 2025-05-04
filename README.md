@@ -72,7 +72,7 @@
 ### 🦄 Fun Animation
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/233853786-5f06cc9d-68e4-4c0d-b8b4-93b45b3af7ee.png" width="300px" alt="Tech Girl Illustration" />
+  <img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/woman-2029393_1280.png" width="300px" alt="Tech Girl Illustration" />
 </p>
 
 
