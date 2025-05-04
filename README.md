@@ -1,21 +1,21 @@
 <!-- GitHub Profile README - Anchal -->
 <h1 align="center">✨ Hey there, I'm Anchal! 👩‍💻</h1>
 <h3 align="center">CSE @ I.K. Gujral Punjab Technical University | Aspiring SDE | Tech Lover 💜</h3>
-  <p align ="left">
+  <p align ="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F57DE3&center=true&vCenter=true&lines=Passionate+Coder+%F0%9F%92%BB;Full+Stack+Learner+%F0%9F%93%96;DSA+Explorer+%F0%9F%92%A1;Future+SDE+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
-<p align="right">
-  <img src="https://img.freepik.com/premium-photo/woman-with-glasses-laptop-with-computer-front-her_962508-61857.jpg?w=826" alt="Hey!"  width="400" height="500"/>
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/woman-with-glasses-laptop-with-computer-front-her_962508-61857.jpg?w=826" alt="Hey!" />
 </p>
 
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F57DE3&center=true&vCenter=true&lines=Passionate+Coder+%F0%9F%92%BB;Full+Stack+Learner+%F0%9F%93%96;DSA+Explorer+%F0%9F%92%A1;Future+SDE+%F0%9F%92%BC" alt="Typing SVG" />
     </td>
     <td>
-      <img src="https://img.freepik.com/premium-photo/woman-with-glasses-laptop-with-computer-front-her_962508-61857.jpg?w=826" alt="Hey!" width="400" />
+      <img src="https://img.freepik.com/premium-photo/woman-with-glasses-laptop-with-computer-front-her_962508-61857.jpg?w=826" alt="Hey!" width="500" />
     </td>
   </tr>
 </table>
